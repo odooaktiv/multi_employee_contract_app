@@ -13,6 +13,7 @@
     'description': """
         This module helps to create multiple employee's contracts from a wizard only if the previous contract is in expired state. 
     """,
+    'images': ['static/description/banner.jpg'],
     'auto_install': False,
     'installable': True,
     'application': True,
