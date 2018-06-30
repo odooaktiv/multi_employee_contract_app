@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 {
     'name': 'Multiple Employee Contract',
     'version': '1.0',
@@ -11,11 +13,11 @@
             'wizard/mutli_contract_view.xml',
     ],
     'description': """
-        This module is used to create multiple contracts of an employee at a time.
+        This module is used to create multiple contracts of an
+        employee at a time.
     """,
 
     'images': ['static/description/banner.jpg'],
     'auto_install': False,
     'installable': True,
 }
-

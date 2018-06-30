@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
-    <data>
         <!-- Multi Payslip Confirmation Wizard -->
         <record id="multi_employee_contract_view_wiz" model="ir.ui.view">
             <field name="name">multi.contract.wiz.form.view</field>
