@@ -1,6 +1,6 @@
 {
     'name': 'Multiple Employee Contract',
-    'version': '1.0',
+    'version': '10.0.1.0.0',
     'author': 'Aktiv Software',
     'website': 'http://www.aktivsoftware.com',
     'summary': 'Create Multiple Contract at a same time.',
