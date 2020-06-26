@@ -4,7 +4,7 @@
     'author': 'Aktiv Software',
     'website': 'http://www.aktivsoftware.com',
     'summary': 'Create Multiple Contract at a same time.',
-    'category': 'Human Resources',
+    'category': 'Generic Modules/Human Resources',
     'license': 'AGPL-3',
     'depends': ['hr_payroll', 'resource'],
     'data': [
